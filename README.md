@@ -24,7 +24,7 @@ A list of Board Games I own
 | One Night Ulimate Werewolf    |     3-? |    15 Min | Many* |
 | Say Anything                  |     4-8 |    30 Min | |
 | Small World                   |     2-5 | 40-80 Min | Several* |
-| **Sheriff of Nottingham**     |     3-5 |    60 Min | Merry Men (Adds 6th player) |
+| **Sheriff of Nottingham**     |     3-5 |    60 Min | Merry Men (5 expainson pack)(Adds 6th player) |
 | Sequence                      |    2-12 |           | |
 | Tell Me without telling me    |      4+ |           | |
 | Telestrations                 |     4-6 |           | |
