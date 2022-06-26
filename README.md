@@ -12,6 +12,7 @@ A list of Board Games I own
 | Concept                       |      4+ |    40 Min | |
 | Coup                          |     2-6 |    15 Min | |
 | Dixit                         |     3-6 |    30 Min | |
+| Dominion                      |     2-4 |    30 Min | |
 | Exploding Kittens             |     2-5 |    15 Min | |
 | Flux                          |     2-6 |  5-20 Min | |
 | Forbidden Island              |     2-4 |    30 Min | |
@@ -19,9 +20,12 @@ A list of Board Games I own
 | **Half Truth**                |     2-6 | 30-45 Min | |
 | Herd Mentality                |    4-20 |           | |
 | Love Letter                   |    2-4? |   15 Min? | | 
+| Mountain of Madness           |     3-5 |    60 Min | | 
 | Munchkin Apocalypse           |     3-6 |  1-2 Hour | |
 | The Night Cage                |     1-5 |    50 Min | |
 | One Night Ulimate Werewolf    |     3-? |    15 Min | Many* |
+| One Week Ultimate Werewolf    |     3-7 |    45 Min | |
+| Red Dragon Inn                |    2-4+ | 30-60 Min | Some* (I thing you can do more players with expansion) |
 | Say Anything                  |     4-8 |    30 Min | |
 | Small World                   |     2-5 | 40-80 Min | Several* |
 | **Sheriff of Nottingham**     |     3-5 |    60 Min | Merry Men (5 expainson pack)(Adds 6th player) |
@@ -31,6 +35,7 @@ A list of Board Games I own
 | Ticket to Ride                |     2-5 | 30-60 Min | India |
 | Ticket to Ride Amsterdam      |     2-4 |    15 Min | |
 | **Tokaido**                   |     1-5 |           | Crossroads |
+| Viceroy                       |     1-4 | 45-60 Min | |
 | The Voting Game               |    2-10 |           | |
 | **Quiddler**                  |     1-8 |   35 Min  | |
 | We're Not really Strangers    |     2-6 |           | |
