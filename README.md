@@ -25,7 +25,7 @@ A list of Board Games I own
 | The Night Cage                |     1-5 |    50 Min | |
 | One Night Ulimate Werewolf    |     3-? |    15 Min | Many* |
 | One Week Ultimate Werewolf    |     3-7 |    45 Min | |
-| Red Dragon Inn                |    2-4+ | 30-60 Min | Some* (I thing you can do more players with expansion) |
+| Red Dragon Inn                |    2-4+ | 30-60 Min | Some* (I think you can do more players with expansion) |
 | Say Anything                  |     4-8 |    30 Min | |
 | Small World                   |     2-5 | 40-80 Min | Several* |
 | **Sheriff of Nottingham**     |     3-5 |    60 Min | Merry Men (5 expainson pack)(Adds 6th player) |
