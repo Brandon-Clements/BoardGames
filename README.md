@@ -70,3 +70,5 @@ A list of games to research furthure.
 | Mork Borg              |                     |
 | Table Fables 1&2       | Book                |
 | Escape The Dark Sector |                     |
+| Delve                  |                     |
+| Umbra                  |                     |
