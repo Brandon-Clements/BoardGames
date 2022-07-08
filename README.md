@@ -61,11 +61,12 @@ A list of Board Games I own
 
 A list of games to research furthure.
 
-|         Name          |     Description     |
-|-----------------------|---------------------|
-| Colostle              | Solo Journaling RPG |
-| Desolate              | Solo Card Game      |
-| Hero's Journey Home   | Solo Card Game      |
-| In Tenebris Lux       |                     |
-| Mork Borg             |                     |
-| Table Fables 1&2      | Book                |
+|         Name           |     Description     |
+|------------------------|---------------------|
+| Colostle               | Solo Journaling RPG |
+| Desolate               | Solo Card Game      |
+| Hero's Journey Home    | Solo Card Game      |
+| In Tenebris Lux        |                     |
+| Mork Borg              |                     |
+| Table Fables 1&2       | Book                |
+| Escape The Dark Sector |                     |
