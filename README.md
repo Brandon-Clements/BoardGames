@@ -1,6 +1,7 @@
 # BoardGames
 A list of Board Games I own
 
+## Board Games
 
 |       Game                       | Players |   Time    | Expansions                    |
 |----------------------------------|---------|-----------|-------------------------------|
@@ -44,3 +45,20 @@ A list of Board Games I own
 | Wits & Wagers                    |      4+ |   25 Min  | |
 | Wordspiel                        |     1-6 |   45 Min  | |
 
+
+## RPGs
+
+|         Name        |    Desc  |
+|---------------------|----------|
+| 4 Against Darkness  | Solo RPG |
+| AGON                | |
+| Beak Feather + Bone | |
+| Blades in The Dark  | |
+| Icuras              | |
+
+## Whishlist
+|   Name   |     Description     |
+|----------|---------------------|
+| Colostle | Solo Journaling RPG |
+| Desolate | Solo Card Game      |
+|
