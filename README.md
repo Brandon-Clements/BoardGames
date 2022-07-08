@@ -48,17 +48,23 @@ A list of Board Games I own
 
 ## RPGs
 
-|         Name        |    Desc  |
-|---------------------|----------|
-| 4 Against Darkness  | Solo RPG |
-| AGON                | |
-| Beak Feather + Bone | |
+|         Name        |              Desc           |
+|---------------------|-----------------------------|
+| 4 Against Darkness  | Solo RPG                    |
+| AGON                | Story Heavy RPG Rotating GM |
+| Beak Feather + Bone | GMless Map marking RPG      |
 | Blades in The Dark  | |
-| Icuras              | |
+| Icuras              | GMless Storytelling RPG     |
+| The Quite Year      | GMless Mapmaking RPG        |
 
-## Whishlist
-|   Name   |     Description     |
-|----------|---------------------|
-| Colostle | Solo Journaling RPG |
-| Desolate | Solo Card Game      |
-|
+## Future?
+
+A list of games to research furthure.
+
+|         Name          |     Description     |
+|-----------------------|---------------------|
+| Colostle              | Solo Journaling RPG |
+| Desolate              | Solo Card Game      |
+| Hero's Journey Home   | Solo Card Game      |
+| In Tenebris Lux       |                     |
+| Mork Borg             |                     |
