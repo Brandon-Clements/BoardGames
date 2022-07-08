@@ -68,3 +68,4 @@ A list of games to research furthure.
 | Hero's Journey Home   | Solo Card Game      |
 | In Tenebris Lux       |                     |
 | Mork Borg             |                     |
+| Table Fables 1&2      | Book                |
