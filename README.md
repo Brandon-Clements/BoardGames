@@ -72,3 +72,4 @@ A list of games to research furthure.
 | Escape The Dark Sector |                     |
 | Delve                  |                     |
 | Umbra                  |                     |
+| D100                   | Solo RPG            |
