@@ -66,10 +66,13 @@ A list of games to research furthure.
 | Colostle               | Solo Journaling RPG |
 | Desolate               | Solo Card Game      |
 | Hero's Journey Home    | Solo Card Game      |
+| Spires End             | Card Game           |
+| Spires End Hildegard   | Card Game           |
 | In Tenebris Lux        |                     |
 | Mork Borg              |                     |
 | Table Fables 1&2       | Book                |
 | Escape The Dark Sector |                     |
+| Escape The Dark Castle |                     |
 | Delve                  |                     |
 | Umbra                  |                     |
 | D100                   | Solo RPG            |
